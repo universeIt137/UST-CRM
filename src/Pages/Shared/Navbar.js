@@ -131,7 +131,7 @@ const Navbar = ({ setOpenMenu, openMenu }) => {
         </div>
         <div className="flex items-center">
           <Link to="/" className="btn btn-ghost normal-case text-2xl">
-            USC CRM
+            UST CRM
           </Link>
           <p
             onClick={() => setOpenMenu(!openMenu)}

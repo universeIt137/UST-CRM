@@ -75,7 +75,7 @@ const DashboardLayoutM = () => {
 
                   <AdminLayout></AdminLayout>
 
-                  <AccountsLayout></AccountsLayout>
+                  {/* <AccountsLayout></AccountsLayout> */}
                 </ul>
               </div>
             </div>
